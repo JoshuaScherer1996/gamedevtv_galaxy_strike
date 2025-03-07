@@ -13,4 +13,10 @@ This repository contains the game I developed for the GameDev.Tv course C# 3D on
 8. Learned about hight map, normal map, diffuse and mask map.
 9. Implementing layer palettes.
 10. Keeping the actual model seperated in the hierarchy.
-11. TBD
+11. Adding the timeline to the game.
+12. Usage of timelines.
+13. Animating with the timeline.
+14. Recording positions with the timeline.
+15. Adding Keys on the timeline.
+16. Difference between animation, animator and timeline.
+17. TBD
