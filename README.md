@@ -19,4 +19,7 @@ This repository contains the game I developed for the GameDev.Tv course C# 3D on
 14. Recording positions with the timeline.
 15. Adding Keys on the timeline.
 16. Difference between animation, animator and timeline.
-17. TBD
+17. Difference between dopesheet and curves.
+18. Using dopesheet for keyframe manipulation.
+19. Using curves to finetune the animations.
+20. TBD
