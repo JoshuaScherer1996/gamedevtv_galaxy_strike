@@ -22,4 +22,8 @@ This repository contains the game I developed for the GameDev.Tv course C# 3D on
 17. Difference between dopesheet and curves.
 18. Using dopesheet for keyframe manipulation.
 19. Using curves to finetune the animations.
-20. TBD
+20. Using action maps for inputs.
+21. Creating an input action map from scratch.
+22. Using the player input component.
+23. Using getters.
+24. TBD
