@@ -1044,6 +1044,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   controlSpeed: 50
+  xClampRange: 25
+  yClampRange: 15
+  controlRollFactor: 20
 --- !u!1001 &2124771336
 PrefabInstance:
   m_ObjectHideFlags: 0

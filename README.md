@@ -26,4 +26,7 @@ This repository contains the game I developed for the GameDev.Tv course C# 3D on
 21. Creating an input action map from scratch.
 22. Using the player input component.
 23. Using getters.
-24. TBD
+24. Introducing the Clamp method.
+25. Intro to quaternions with pitch, yaw and roll.
+26. Intro to euler angles.
+27. TBD
