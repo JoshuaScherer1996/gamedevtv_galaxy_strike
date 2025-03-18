@@ -29,4 +29,8 @@ This repository contains the game I developed for the GameDev.Tv course C# 3D on
 24. Introducing the Clamp method.
 25. Intro to quaternions with pitch, yaw and roll.
 26. Intro to euler angles.
-27. TBD
+27. Implementing Quaternion.Euler
+28. Intro to linear interpolation in short lerping.
+29. Implementing Quaternion.Lerp
+30. Implementing a pitch
+31. TBD
