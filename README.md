@@ -33,4 +33,9 @@ This repository contains the game I developed for the GameDev.Tv course C# 3D on
 28. Intro to linear interpolation in short lerping.
 29. Implementing Quaternion.Lerp
 30. Implementing a pitch
-31. TBD
+31. Deep dive into the particle system.
+32. Manipulating the particles using the properties of the particle system.
+33. Creating materials and using the render pipeline on them.
+34. Intro to sprites.
+35. Render mode vertical billboard to make 2d sprites always face the camera.
+36. TBD 
