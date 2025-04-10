@@ -38,4 +38,6 @@ This repository contains the game I developed for the GameDev.Tv course C# 3D on
 33. Creating materials and using the render pipeline on them.
 34. Intro to sprites.
 35. Render mode vertical billboard to make 2d sprites always face the camera.
-36. TBD 
+36. Implicitly stating the type of a variable with var.
+37. Accessig Emission through the game object.
+38. TBD
