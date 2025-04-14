@@ -46,4 +46,6 @@ This repository contains the game I developed for the GameDev.Tv course C# 3D on
 41. Creating UI Canvas.
 42. Adjusting basic settings for the canvas like image scaler.
 43. Disabling the cursor inside the Start method.
-44. TBD
+44. Using the unity method ScreenToWorldPoint.
+45. Using invisible objects as helpers.
+46. TBD
