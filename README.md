@@ -48,4 +48,6 @@ This repository contains the game I developed for the GameDev.Tv course C# 3D on
 43. Disabling the cursor inside the Start method.
 44. Using the unity method ScreenToWorldPoint.
 45. Using invisible objects as helpers.
-46. TBD
+46. Implementing basic vector arithmatics.
+47. Using the build in method LookRotation for vector arithmatics.
+48. TBD
