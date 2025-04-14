@@ -40,4 +40,6 @@ This repository contains the game I developed for the GameDev.Tv course C# 3D on
 35. Render mode vertical billboard to make 2d sprites always face the camera.
 36. Implicitly stating the type of a variable with var.
 37. Accessig Emission through the game object.
-38. TBD
+38. Using Arrays.
+39. Using foreach loops.
+40. TBD
