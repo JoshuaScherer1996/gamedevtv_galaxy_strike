@@ -42,4 +42,8 @@ This repository contains the game I developed for the GameDev.Tv course C# 3D on
 37. Accessig Emission through the game object.
 38. Using Arrays.
 39. Using foreach loops.
-40. TBD
+40. First look at implementing UI sprites.
+41. Creating UI Canvas.
+42. Adjusting basic settings for the canvas like image scaler.
+43. Disabling the cursor inside the Start method.
+44. TBD
