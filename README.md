@@ -50,4 +50,5 @@ This repository contains the game I developed for the GameDev.Tv course C# 3D on
 45. Using invisible objects as helpers.
 46. Implementing basic vector arithmatics.
 47. Using the build in method LookRotation for vector arithmatics.
-48. TBD
+48. Collision [Matrix](https://docs.unity3d.com/560/Documentation/Manual/CollidersOverview.html) from Unity.
+49. TBD
