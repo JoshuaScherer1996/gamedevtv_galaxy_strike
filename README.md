@@ -51,4 +51,5 @@ This repository contains the game I developed for the GameDev.Tv course C# 3D on
 46. Implementing basic vector arithmatics.
 47. Using the build in method LookRotation for vector arithmatics.
 48. Collision [Matrix](https://docs.unity3d.com/560/Documentation/Manual/CollidersOverview.html) from Unity.
-49. TBD
+49. Send collision messages for particle collisions.
+50. TBD 
