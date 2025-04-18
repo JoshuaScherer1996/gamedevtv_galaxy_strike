@@ -1050,6 +1050,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f017fae5f69f802418553986ae5930a9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  destroyedVFX: {fileID: 6559716434400242158, guid: 0ba7d0c0cd9312e43bb11f15c00f0992, type: 3}
 --- !u!65 &825594654
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1292,6 +1293,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f017fae5f69f802418553986ae5930a9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  destroyedVFX: {fileID: 6559716434400242158, guid: 0ba7d0c0cd9312e43bb11f15c00f0992, type: 3}
 --- !u!65 &1029792555
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1576,6 +1578,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f017fae5f69f802418553986ae5930a9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  destroyedVFX: {fileID: 6559716434400242158, guid: 0ba7d0c0cd9312e43bb11f15c00f0992, type: 3}
 --- !u!65 &1616218090
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1719,6 +1722,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f017fae5f69f802418553986ae5930a9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  destroyedVFX: {fileID: 6559716434400242158, guid: 0ba7d0c0cd9312e43bb11f15c00f0992, type: 3}
 --- !u!4 &1715734101 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 7708d606d16e7df4bb5fc68fc20ea46a, type: 3}
