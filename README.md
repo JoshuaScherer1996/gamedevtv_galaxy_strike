@@ -56,4 +56,6 @@ This repository contains the game I developed for the GameDev.Tv course C# 3D on
 51. More detail about the different usages of instantiation.
 52. Usage of Quaternion.identity.
 53. More details on fbx files and prefabs.
-54. TBD
+54. Difference between prefabs, nested prefabs and prefab variants.
+55. Unpacking prefabs.
+56. TBD
