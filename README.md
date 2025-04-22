@@ -58,4 +58,5 @@ This repository contains the game I developed for the GameDev.Tv course C# 3D on
 53. More details on fbx files and prefabs.
 54. Difference between prefabs, nested prefabs and prefab variants.
 55. Unpacking prefabs.
-56. TBD
+56. Prefab Hierarchy working similar to inheritance.
+57. TBD
