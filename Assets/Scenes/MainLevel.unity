@@ -564,10 +564,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Speeder
       objectReference: {fileID: 0}
-    - target: {fileID: 7613691094284532422, guid: bf209fa5ae8ef6046b4d0ef53134113a, type: 3}
-      propertyPath: hitPoints
-      value: 2
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -626,8 +622,8 @@ PrefabInstance:
       value: Deliverer
       objectReference: {fileID: 0}
     - target: {fileID: 7613691094284532422, guid: 382bc84857f3e1840b6d13a6eefec2b3, type: 3}
-      propertyPath: hitPoints
-      value: 6
+      propertyPath: scoreValue
+      value: 5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -735,11 +731,59 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fighter
       objectReference: {fileID: 0}
+    - target: {fileID: 7613691094284532422, guid: 426587317ac4c224f887601563a87279, type: 3}
+      propertyPath: scoreValue
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 426587317ac4c224f887601563a87279, type: 3}
+--- !u!1 &1162688706
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1162688708}
+  - component: {fileID: 1162688707}
+  m_Layer: 0
+  m_Name: Scoreboard
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1162688707
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1162688706}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8ecf4106a7a9324c981eb46dbebeabf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &1162688708
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1162688706}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 33.72365, y: 256.42532, z: 1151.8453}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1192173540
 GameObject:
   m_ObjectHideFlags: 0
@@ -1176,3 +1220,4 @@ SceneRoots:
   - {fileID: 664391948}
   - {fileID: 1149354915}
   - {fileID: 749650684}
+  - {fileID: 1162688708}

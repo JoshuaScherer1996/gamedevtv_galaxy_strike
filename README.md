@@ -62,4 +62,9 @@ This repository contains the game I developed for the GameDev.Tv course C# 3D on
 57. Using prefab context mode
 58. Using prefab isolation mode
 59. Creating vs referencing prefabs.
-60. TBD
+60. SOLID coing priciples.
+61. Basic software architacture.
+62. Deep dive into encapsulation.
+63. What depricated code is.
+64. Creating references to other scripts.
+65. TBD

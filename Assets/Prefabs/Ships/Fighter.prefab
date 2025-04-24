@@ -10,15 +10,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1224205293988545543, guid: 878aecc3a6f71b54b9ee3c6093db823f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -16.11758
+      value: 87.5
       objectReference: {fileID: 0}
     - target: {fileID: 1224205293988545543, guid: 878aecc3a6f71b54b9ee3c6093db823f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.0000019073486
+      value: 191.2
       objectReference: {fileID: 0}
     - target: {fileID: 1224205293988545543, guid: 878aecc3a6f71b54b9ee3c6093db823f, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 52.97094
+      value: 999.9462
       objectReference: {fileID: 0}
     - target: {fileID: 1224205293988545543, guid: 878aecc3a6f71b54b9ee3c6093db823f, type: 3}
       propertyPath: m_LocalRotation.w
@@ -50,7 +50,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6858187710867330303, guid: 878aecc3a6f71b54b9ee3c6093db823f, type: 3}
       propertyPath: m_Name
-      value: Enemy1
+      value: Fighter
+      objectReference: {fileID: 0}
+    - target: {fileID: 7968079353375163100, guid: 878aecc3a6f71b54b9ee3c6093db823f, type: 3}
+      propertyPath: scoreValue
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 8069213694236990143, guid: 878aecc3a6f71b54b9ee3c6093db823f, type: 3}
       propertyPath: m_Size.x
