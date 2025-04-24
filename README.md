@@ -59,4 +59,7 @@ This repository contains the game I developed for the GameDev.Tv course C# 3D on
 54. Difference between prefabs, nested prefabs and prefab variants.
 55. Unpacking prefabs.
 56. Prefab Hierarchy working similar to inheritance.
-57. TBD
+57. Using prefab context mode
+58. Using prefab isolation mode
+59. Creating vs referencing prefabs.
+60. TBD
